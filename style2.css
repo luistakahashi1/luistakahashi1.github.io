@@ -26,19 +26,7 @@ p, li {
 img {
   float: left;
 }
-#title {
-  float: left;
-}
-#poster {
-  float: right;
-}
-#summary {
-  clear: both;
-  background-color: gray;
-  padding: 20px;
-  border: 1px solid black;
-  margin-top: 20px;
-}
+
 
 #block {
   clear: both;
