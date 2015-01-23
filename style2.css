@@ -1,0 +1,57 @@
+body {
+  width: 1040px;
+  margin: 2 auto;
+  font-family: 'Oswald', sans-serif; 
+  font-size: 12;
+  color: white;
+  background-color: purple;
+  background-image: url(../images/space.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h2 {
+  border-bottom: 1px solid gray;
+}
+a { 
+  color: orange;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  float: left;
+}
+#title {
+  float: left;
+}
+#poster {
+  float: right;
+}
+#summary {
+  clear: both;
+  background-color: gray;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+#block {
+  clear: both;
+}
+
+#table {
+  clear: both;
+  boder-style: solid
+  border-width: medium;
+  bordercolor: black;
+  background-color: green;
+  padding: 20px
+  boder: 1px solid black
+  margin-top: 20px;
+  width: 1000px;
+}
